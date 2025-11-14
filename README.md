@@ -46,7 +46,8 @@ endmodule
 ```
 #### SIMULATION OUTPUT
 
-------- paste the output here -------
+<img width="1920" height="1200" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/c5da46ee-2934-4748-b00d-12dc8a34786f" />
+
 ---
 
 ### JK Flip-Flop (Blocking)
@@ -69,7 +70,9 @@ endmodule
 ```
 #### SIMULATION OUTPUT
 
-------- paste the output here -------
+
+<img width="1920" height="1200" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/5d73d470-8533-4c23-a91a-7e98346b95bf" />
+
 ---
 ### D Flip-Flop (Blocking)
 ```verilog
@@ -92,7 +95,8 @@ endmodule
 
 #### SIMULATION OUTPUT
 
-------- paste the output here -------
+<img width="1920" height="1200" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/e6089e89-8542-4e9d-a7e6-53244d86eb7c" />
+
 ---
 ### T Flip-Flop (Blocking)
 ```verilog
@@ -115,7 +119,8 @@ endmodule
 
 #### SIMULATION OUTPUT
 
-------- paste the output here -------
+<img width="1285" height="620" alt="Screenshot 2025-09-22 111353" src="https://github.com/user-attachments/assets/80479ce8-dafe-47f5-a28d-6496c76e6acb" />
+
 
 ---
 
